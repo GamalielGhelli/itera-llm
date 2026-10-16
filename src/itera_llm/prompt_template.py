@@ -7,5 +7,11 @@ def main() -> None:
   llm = criar_modelo()
 
 
+
+
+
+
+
+
 if __name__ == "__main__":
   main()
